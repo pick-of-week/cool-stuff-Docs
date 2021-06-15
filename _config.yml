@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 title: cool-stuff-WPP Docs
 description: The documentation for the cool-stuff-WPP online storefront
 show_downloads: true
+github:
+  zip_url: https://github.com/pick-of-week/cool-stuff-WPP/archive/refs/heads/main.zip
