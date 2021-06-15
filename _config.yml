@@ -5,3 +5,4 @@ show_downloads: true
 github:
   zip_url: https://github.com/pick-of-week/cool-stuff-WPP/archive/refs/tags/v2.zip
   tar_url: https://github.com/pick-of-week/cool-stuff-WPP/archive/refs/tags/v2.tar.gz
+  repository_url: https://github.com/pick-of-week/cool-stuff-WPP/
