@@ -3,4 +3,5 @@ title: cool-stuff-WPP Docs
 description: The documentation for the cool-stuff-WPP online storefront
 show_downloads: true
 github:
-  zip_url: https://github.com/pick-of-week/cool-stuff-WPP/archive/refs/heads/main.zip
+  zip_url: https://github.com/pick-of-week/cool-stuff-WPP/archive/refs/tags/v2.zip
+  tar_url: https://github.com/pick-of-week/cool-stuff-WPP/archive/refs/tags/v2.tar.gz
