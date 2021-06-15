@@ -20,7 +20,6 @@
 
 ## Requirements
 
-
-
+---
 
 [1]: https://github.com/pick-of-week/cool-stuff-WPP 'POW'
