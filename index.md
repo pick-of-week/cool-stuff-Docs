@@ -13,6 +13,8 @@
 ---
 
 ## Frontend
+### Framework
+### Why we chose a PWA
 
 
 
